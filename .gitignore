@@ -1,3 +1,4 @@
 node_modules
 dist
 teamable-*.tgz
+.DS_Store
